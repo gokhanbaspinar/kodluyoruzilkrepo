@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 ## Installation
 
-Öncelikle projeyi klonlayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi klonlayın.
 
 ```
 git clone https://github.com/gokhanbaspinar/kodluyoruzilkrepo.git
@@ -30,3 +30,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## Licence
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Patika.dev linki
+
+[Patika](https://app.patika.dev/gokhanbaspinar)
